@@ -1,0 +1,55 @@
+h2{
+    margin-top: 20px;
+    margin-left: 20px;
+    color:goldenrod;
+}
+.container{
+    max-width: fit-content;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.farm{
+    width: 250px;
+    height:325px;
+    padding-top: 50px;
+    margin-top: 50px;
+    margin-right: 15px;
+    text-align: center;
+    border:green solid 5px;
+    box-shadow: 5px 10px #888888;
+
+}
+.cave{
+    width: 250px;
+    height:325px;
+    padding-top: 50px;
+    margin-top: 50px;
+    margin-right: 15px;
+    text-align: center;
+    border:green solid 5px;
+    box-shadow: 5px 10px #888888;
+}
+.house{
+    width: 250px;
+    height:325px;
+    margin-top: 50px;
+    padding-top: 50px;
+    margin-right: 15px;
+    text-align: center;
+    border:green solid 5px;
+    box-shadow: 5px 10px #888888;
+}
+.casino{
+    width: 250px;
+    height:325px;
+    margin-top: 50px;
+    padding-top: 50px;
+    text-align: center;
+    border:green solid 5px;
+    box-shadow: 5px 10px #888888;
+}
+h5{
+    margin-top: 40px;
+}
